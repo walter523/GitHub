@@ -1,1 +1,1 @@
-$('hola').val('hola')
+console.log('hola')
